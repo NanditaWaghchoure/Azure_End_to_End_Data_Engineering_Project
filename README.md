@@ -21,9 +21,13 @@ Hence, those testcases transformation is done with the help of Data bricks servi
 
 Now these transformed data is final data and these data is stored into Azure Synapsis service
 
-And our cleanest form of data is now into Azure Synapsis and now we can make report out of our project.
+Hence, Data Engineers is suppose to work on On-premise SQL server DB according to their requirements which is done in this project
+
+And our cleanest form of data is now into Azure Synapsis and now we can make report out of our project
 
 To make a report I have connected Azure Synapsis to PowerBI and created report of our data
+
+This Data engineer project is the solution for Data engineers to perform modifications on  On-preSQL server
 
 
 
