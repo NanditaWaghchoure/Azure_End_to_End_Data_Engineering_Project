@@ -21,7 +21,7 @@ Hence, those testcases transformation is done with the help of Data bricks servi
 
 Now these transformed data is final data and these data is stored into Azure Synapsis service
 
-And our cleanest form of data is now into Azure Synapsis and now we can make report out of our project
+And our cleanest form of data is now into Azure Synapsis and now we can make report out of our project.
 
 To make a report I have connected Azure Synapsis to PowerBI and created report of our data
 
