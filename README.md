@@ -27,7 +27,7 @@ And our cleanest form of data is now into Azure Synapsis and now we can make rep
 
 To make a report I have connected Azure Synapsis to PowerBI and created report of our data
 
-This Data engineer project is the solution for Data engineers to perform modifications on  On-preSQL server
+This Data engineer project is the solution for Data engineers to perform modifications on  On-prem SQL server DB which is on cloud already
 
 
 
